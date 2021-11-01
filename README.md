@@ -1,5 +1,6 @@
 # Surat-kelurahan
-sistem ini mengelolah pelayanan surat yang ada di Kantor Kelurahan,seperti : 
+sistem ini mengelolah pelayanan surat yang ada di Kantor Kelurahan,seperti :
+
 1.penduduk datang, penduduk pindah, kematian, kelahiran
 2.surat permohonan umum: surat domisili, surat keterangan tidak mampu, surat ijin keramaian, surat keterangan usaha, surat ijin membangun bangunan.
 # Instal

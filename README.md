@@ -10,3 +10,6 @@ sistem ini mengelolah pelayanan surat yang ada di Kantor Kelurahan,seperti :
 3. username : admin
 4. pasword : 12345
 5. untuk akun penduduk : perlu registrasi dengan menggunakan akun email dan nik (nik yang terdaftr disistem ini).
+
+# VIEW WEBSITE 
+https://sidekra.000webhostapp.com/main.php?modul=beranda
